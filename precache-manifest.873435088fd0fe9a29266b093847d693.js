@@ -1,10 +1,10 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "04718385f287878fc61ee28c310260c3",
+    "revision": "2f9717514707e1f9a0271b74f8dd3cea",
     "url": "/platzibadge/index.html"
   },
   {
-    "revision": "9e863ff8292274f0a70e",
+    "revision": "2a7a0c80c468c271f5ed",
     "url": "/platzibadge/static/css/main.5f361e03.chunk.css"
   },
   {
@@ -16,8 +16,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/platzibadge/static/js/2.d134ae20.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "9e863ff8292274f0a70e",
-    "url": "/platzibadge/static/js/main.8f468d6e.chunk.js"
+    "revision": "2a7a0c80c468c271f5ed",
+    "url": "/platzibadge/static/js/main.162e446d.chunk.js"
   },
   {
     "revision": "c53e6b657d287cd2bc47",
