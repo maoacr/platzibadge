@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/platzibadge/static/css/main.5f361e03.chunk.css",
+    "main.js": "/platzibadge/static/js/main.8f468d6e.chunk.js",
+    "main.js.map": "/platzibadge/static/js/main.8f468d6e.chunk.js.map",
+    "runtime-main.js": "/platzibadge/static/js/runtime-main.251346a8.js",
+    "runtime-main.js.map": "/platzibadge/static/js/runtime-main.251346a8.js.map",
+    "static/js/2.d134ae20.chunk.js": "/platzibadge/static/js/2.d134ae20.chunk.js",
+    "static/js/2.d134ae20.chunk.js.map": "/platzibadge/static/js/2.d134ae20.chunk.js.map",
+    "index.html": "/platzibadge/index.html",
+    "precache-manifest.ffdfe41615607d264d75e63ae10596a4.js": "/platzibadge/precache-manifest.ffdfe41615607d264d75e63ae10596a4.js",
+    "service-worker.js": "/platzibadge/service-worker.js",
+    "static/css/main.5f361e03.chunk.css.map": "/platzibadge/static/css/main.5f361e03.chunk.css.map",
+    "static/js/2.d134ae20.chunk.js.LICENSE.txt": "/platzibadge/static/js/2.d134ae20.chunk.js.LICENSE.txt",
+    "static/media/logo.svg": "/platzibadge/static/media/logo.5d5d9eef.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.251346a8.js",
+    "static/js/2.d134ae20.chunk.js",
+    "static/css/main.5f361e03.chunk.css",
+    "static/js/main.8f468d6e.chunk.js"
+  ]
+}
