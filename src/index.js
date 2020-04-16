@@ -1,17 +1,21 @@
 import React from 'react';
 import ReactDOM from 'react-dom';
-import './index.css';
-import App from './App';
-import * as serviceWorker from './serviceWorker';
+import 'bootstrap/dist/css/bootstrap.css';
+
+import './global.css';
+import Badge from './components/Badge';
+
+const container = document.getElementById('app');
 
 ReactDOM.render(
-  <React.StrictMode>
-    <App />
-  </React.StrictMode>,
-  document.getElementById('root')
+  <Badge
+    firstName="Richard"
+    lastName="Kaufman"
+    avatarUrl="https://www.gravatar.com/avatar/21594ed15d68ace3965642162f8d2e84?d=identicon"
+    jobTitle="Senior Frontend Engineer"
+    twitter="sparragus"
+  />,
+  container
 );
 
-// If you want your app to work offline and load faster, you can change
-// unregister() to register() below. Note this comes with some pitfalls.
-// Learn more about service workers: https://bit.ly/CRA-PWA
-serviceWorker.unregister();
+export default Badge;
