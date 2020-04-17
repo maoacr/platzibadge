@@ -1,27 +1,27 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "6eb96f6191c5e0b49042346bde553397",
+    "revision": "68995dbc4a6e269ffffb9e80ea7dbbd1",
     "url": "/platzibadge/index.html"
   },
   {
-    "revision": "756b6d35c30be8f23509",
+    "revision": "e9934d953246041bcb36",
     "url": "/platzibadge/static/css/2.89f067aa.chunk.css"
   },
   {
-    "revision": "7379e9f95142d3b7d90c",
-    "url": "/platzibadge/static/css/main.787a5ec1.chunk.css"
+    "revision": "e6370b54e7647d31981d",
+    "url": "/platzibadge/static/css/main.b16ea498.chunk.css"
   },
   {
-    "revision": "756b6d35c30be8f23509",
-    "url": "/platzibadge/static/js/2.11225152.chunk.js"
+    "revision": "e9934d953246041bcb36",
+    "url": "/platzibadge/static/js/2.829e4697.chunk.js"
   },
   {
     "revision": "e88a3e95b5364d46e95b35ae8c0dc27d",
-    "url": "/platzibadge/static/js/2.11225152.chunk.js.LICENSE.txt"
+    "url": "/platzibadge/static/js/2.829e4697.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "7379e9f95142d3b7d90c",
-    "url": "/platzibadge/static/js/main.0426ec07.chunk.js"
+    "revision": "e6370b54e7647d31981d",
+    "url": "/platzibadge/static/js/main.fc52fe6d.chunk.js"
   },
   {
     "revision": "c53e6b657d287cd2bc47",

@@ -1,28 +1,28 @@
 {
   "files": {
-    "main.css": "/platzibadge/static/css/main.787a5ec1.chunk.css",
-    "main.js": "/platzibadge/static/js/main.0426ec07.chunk.js",
-    "main.js.map": "/platzibadge/static/js/main.0426ec07.chunk.js.map",
+    "main.css": "/platzibadge/static/css/main.b16ea498.chunk.css",
+    "main.js": "/platzibadge/static/js/main.fc52fe6d.chunk.js",
+    "main.js.map": "/platzibadge/static/js/main.fc52fe6d.chunk.js.map",
     "runtime-main.js": "/platzibadge/static/js/runtime-main.251346a8.js",
     "runtime-main.js.map": "/platzibadge/static/js/runtime-main.251346a8.js.map",
     "static/css/2.89f067aa.chunk.css": "/platzibadge/static/css/2.89f067aa.chunk.css",
-    "static/js/2.11225152.chunk.js": "/platzibadge/static/js/2.11225152.chunk.js",
-    "static/js/2.11225152.chunk.js.map": "/platzibadge/static/js/2.11225152.chunk.js.map",
+    "static/js/2.829e4697.chunk.js": "/platzibadge/static/js/2.829e4697.chunk.js",
+    "static/js/2.829e4697.chunk.js.map": "/platzibadge/static/js/2.829e4697.chunk.js.map",
     "index.html": "/platzibadge/index.html",
-    "precache-manifest.a07ae9e04eb59f8bdc9d7e5798eec9ac.js": "/platzibadge/precache-manifest.a07ae9e04eb59f8bdc9d7e5798eec9ac.js",
+    "precache-manifest.b222da86cb8e83f2dd21d08c07e4fae3.js": "/platzibadge/precache-manifest.b222da86cb8e83f2dd21d08c07e4fae3.js",
     "service-worker.js": "/platzibadge/service-worker.js",
     "static/css/2.89f067aa.chunk.css.map": "/platzibadge/static/css/2.89f067aa.chunk.css.map",
-    "static/css/main.787a5ec1.chunk.css.map": "/platzibadge/static/css/main.787a5ec1.chunk.css.map",
-    "static/js/2.11225152.chunk.js.LICENSE.txt": "/platzibadge/static/js/2.11225152.chunk.js.LICENSE.txt",
+    "static/css/main.b16ea498.chunk.css.map": "/platzibadge/static/css/main.b16ea498.chunk.css.map",
+    "static/js/2.829e4697.chunk.js.LICENSE.txt": "/platzibadge/static/js/2.829e4697.chunk.js.LICENSE.txt",
     "static/media/badge-header.svg": "/platzibadge/static/media/badge-header.973f5842.svg",
     "static/media/logo.svg": "/platzibadge/static/media/logo.0026b862.svg",
-    "static/media/Badges.css": "/platzibadge/static/media/stars.1d17360a.svg"
+    "static/media/BadgeNew.css": "/platzibadge/static/media/stars.1d17360a.svg"
   },
   "entrypoints": [
     "static/js/runtime-main.251346a8.js",
     "static/css/2.89f067aa.chunk.css",
-    "static/js/2.11225152.chunk.js",
-    "static/css/main.787a5ec1.chunk.css",
-    "static/js/main.0426ec07.chunk.js"
+    "static/js/2.829e4697.chunk.js",
+    "static/css/main.b16ea498.chunk.css",
+    "static/js/main.fc52fe6d.chunk.js"
   ]
 }
