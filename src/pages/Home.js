@@ -1,11 +1,10 @@
-import React, { Component } from 'react';
-import { Link } from 'react-router-dom';
+import React from "react";
+import { Link } from "react-router-dom";
+import confLogo from "../images/platziconf-logo.svg";
+import platziImage from "../images/astronauts.svg";
+import "../components/styles/Home.css";
 
-import './styles/Home.css';
-import platziconfLogoImage from '../images/platziconf-logo.svg';
-import astronautsImage from '../images/astronauts.svg';
-
-export default class Home extends Component {
+class Home extends React.Component {
   render() {
     return (
       <div className="Home">
@@ -13,7 +12,7 @@ export default class Home extends Component {
           <div className="row">
             <div className="Home__col col-12 col-md-4">
               <img
-                src={platziconfLogoImage}
+                src={confLogo}
                 alt="Platzi Conf Logo"
                 className="img-fluid mb-2"
               />
@@ -26,7 +25,7 @@ export default class Home extends Component {
 
             <div className="Home__col d-none d-md-block col-md-8">
               <img
-                src={astronautsImage}
+                src={platziImage}
                 alt="Astronauts"
                 className="img-fluid p-4"
               />
@@ -37,3 +36,5 @@ export default class Home extends Component {
     );
   }
 }
+
+export default Home;
